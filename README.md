@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Web Programming Lecture Notes
+# Web Programming Lecture Notes
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AI Assisted](https://img.shields.io/badge/AI-Assisted-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
@@ -13,60 +13,60 @@
 
 ---
 
-## 🗺️ Overview
+## Overview
 
 This repository holds my web programming lecture notes. Each set of notes is converted to Markdown and then refined with AI so the material is easier to review, revisit, and understand.
 
-> 💡 **Tip:** Every file is plain Markdown, so it renders nicely on GitHub and works in any editor.
+> **Tip:** Every file is plain Markdown, so it renders nicely on GitHub and works in any editor.
 
 ---
 
-## 📚 Course Index
+## Course Index
 
-| # | 📄 File | 🧩 Topics Covered |
+| # | File | Topics Covered |
 |:-:|:--------|:------------------|
-| 1 | [`class1.md`](class1.md) | 🖥️ Transistors · 🖼️ Pixels to bits · 🔊 Audio sampling · 🎨 RGB color · 🌐 Internet history · 📦 Packet switching · ☕ Java history · 🔐 Persistent sign-in |
+| 1 | [`class1.md`](class1.md) | Transistors · Pixels to bits · Audio sampling · RGB color · Internet history · Packet switching · Java history · Persistent sign-in |
 
 ---
 
-## 🔬 Lecture 1 at a Glance
+## Lecture 1 at a Glance
 
 <details>
 <summary><b>Click to expand the topic map</b></summary>
 
 | Area | Key Concepts |
 |:-----|:-------------|
-| 🖥️ Hardware | Transistors, binary switches (`1` / `0`) |
-| 🖼️ Media | Pixels, 24-bit true color, ADC (sampling and quantization) |
-| 🌐 Networking | ARPANET, packets, routers, OSPF / BGP, Dijkstra's algorithm |
-| ☕ Software | Java, bytecode, JVM, "Write Once, Run Anywhere" |
-| 🔐 Web | Session cookies, JWT, automatic token transmission |
+| Hardware | Transistors, binary switches (`1` / `0`) |
+| Media | Pixels, 24-bit true color, ADC (sampling and quantization) |
+| Networking | ARPANET, packets, routers, OSPF / BGP, Dijkstra's algorithm |
+| Software | Java, bytecode, JVM, "Write Once, Run Anywhere" |
+| Web | Session cookies, JWT, automatic token transmission |
 
 </details>
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 ```mermaid
 flowchart LR
-    A[✍️ Lecture Notes] --> B[🔄 Convert to Markdown]
-    B --> C[🤖 AI Rewrite & Summarize]
-    C --> D[🔍 Review for Accuracy]
-    D --> E[📤 Commit to Repo]
+    A[Lecture Notes] --> B[Convert to Markdown]
+    B --> C[AI Rewrite & Summarize]
+    C --> D[Review for Accuracy]
+    D --> E[Commit to Repo]
 ```
 
 | Step | Action | Tool |
 |:----:|:-------|:-----|
-| 1 | Take notes in class | ✍️ Pen, paper, or doc |
-| 2 | Convert to Markdown | 📝 Editor |
-| 3 | Rewrite and summarize | 🤖 AI assistant |
-| 4 | Verify facts | ✅ Course sources |
-| 5 | Save and version | 🐙 Git and GitHub |
+| 1 | Take notes in class | Pen, paper, or doc |
+| 2 | Convert to Markdown | Editor |
+| 3 | Rewrite and summarize | AI assistant |
+| 4 | Verify facts | Course sources |
+| 5 | Save and version | Git and GitHub |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -76,10 +76,10 @@ flowchart LR
 
 ---
 
-> ⚠️ **Disclaimer:** This is personal study material. Verify details against the original course sources before relying on it for exams or production work.
+> **Disclaimer:** This is personal study material. Verify details against the original course sources before relying on it for exams or production work.
 
 <div align="center">
 
-### ⭐ If these notes help you, consider starring the repo!
+### If these notes help you, consider starring the repo!
 
 </div>
